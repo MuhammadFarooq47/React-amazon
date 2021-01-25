@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-amazon/static/css/main.2b08e443.chunk.css",
+    "main.js": "/React-amazon/static/js/main.a62ebfe0.chunk.js",
+    "main.js.map": "/React-amazon/static/js/main.a62ebfe0.chunk.js.map",
+    "runtime-main.js": "/React-amazon/static/js/runtime-main.ca2b1481.js",
+    "runtime-main.js.map": "/React-amazon/static/js/runtime-main.ca2b1481.js.map",
+    "static/js/2.32e9e253.chunk.js": "/React-amazon/static/js/2.32e9e253.chunk.js",
+    "static/js/2.32e9e253.chunk.js.map": "/React-amazon/static/js/2.32e9e253.chunk.js.map",
+    "index.html": "/React-amazon/index.html",
+    "precache-manifest.5c4dbf31b24440c84767c3f94fe02fc3.js": "/React-amazon/precache-manifest.5c4dbf31b24440c84767c3f94fe02fc3.js",
+    "service-worker.js": "/React-amazon/service-worker.js",
+    "static/css/main.2b08e443.chunk.css.map": "/React-amazon/static/css/main.2b08e443.chunk.css.map",
+    "static/js/2.32e9e253.chunk.js.LICENSE.txt": "/React-amazon/static/js/2.32e9e253.chunk.js.LICENSE.txt",
+    "static/media/banner.png": "/React-amazon/static/media/banner.9174c19a.png",
+    "static/media/credit.png": "/React-amazon/static/media/credit.15b89b28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca2b1481.js",
+    "static/js/2.32e9e253.chunk.js",
+    "static/css/main.2b08e443.chunk.css",
+    "static/js/main.a62ebfe0.chunk.js"
+  ]
+}
